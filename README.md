@@ -19,8 +19,7 @@ Answer the following questions based on your understanding of the installation a
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
 
-5. Extensions in VS Code:
-   - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+5. Extensions in VS Code:.
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
@@ -41,5 +40,6 @@ Answer the following questions based on your understanding of the installation a
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
+- Submit your completed assignment by 1st Jul
 
+https://docs.google.com/document/d/1BIHF6xZL9HFSN-JpikSZXT7ldnCdphnP0PimEHckajs/edit?usp=sharing
